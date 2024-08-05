@@ -1,0 +1,13 @@
+.feed {
+  margin-left: 250px;
+  padding: 20px;
+  background-color: #ffffff;
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .feed {
+    margin-left: 0;
+    padding: 10px;
+  }
+}
